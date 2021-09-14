@@ -1,9 +1,0 @@
-[submodule "base-apparel-coming-soon"]
-	path = base-apparel-coming-soon
-	url = https://github.com/ahmadbilalse/base-apparel-coming-soon.git
-[submodule "four-card-feature-section"]
-	path = four-card-feature-section
-	url = https://github.com/ahmadbilalse/four-card-feature-section.git
-[submodule "intro-component-with-signup-form"]
-	path = intro-component-with-signup-form
-	url = https://github.com/ahmadbilalse/intro-component-with-signup-form.git
